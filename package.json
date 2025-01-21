@@ -2,6 +2,7 @@
   "name": "moon-calendar-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://paraslamsong.github.io/moon-calendar-web/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
