@@ -89,7 +89,6 @@ const CameraController = () => {
 
       const speed = 500; // Movement speed for camera
 
-      console.log({ event: event.key });
       switch (event.key) {
         case "ArrowUp":
           cameraRef.current.position.z -= speed; // Move forward (toward the center of the scene)

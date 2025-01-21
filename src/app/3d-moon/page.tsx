@@ -1,8 +1,14 @@
+"use client";
 import React from "react";
 import dynamic from "next/dynamic";
 
-// Dynamically import the 3D component and disable SSR (only rendered on the client side)
-const ThreeDPage = dynamic(() => import("./moon-model"), { ssr: true });
+const ThreeDPage = dynamic(
+  () =>
+    import("../3d-moon/moon-model") as Promise<{
+      default: React.ComponentType;
+    }>,
+  { ssr: false }
+);
 
 const Page = () => {
   return (

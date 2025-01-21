@@ -40,7 +40,7 @@ const CalendarSkeleton = (props: IProps) => {
             moonJson[Math.floor(lunarAge) as unknown as keyof typeof moonJson];
 
           const isToday = date.isSame(moment(props.currentDate), "date");
-          console.log({ isToday });
+
           return (
             <div
               key={index}
