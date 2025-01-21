@@ -1,0 +1,182 @@
+{
+  "0": {
+    "phase_name": "New Moon",
+    "file_name": "moon_1.jpg",
+    "description": "The New Moon occurs when the Moon is between the Earth and the Sun, making it invisible from Earth. It's the beginning of the lunar cycle and marks the start of new beginnings.",
+    "show": true
+  },
+  "1": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_2.jpg",
+    "description": "In the Waxing Crescent phase, the illuminated portion of the Moon starts to grow. It’s a time of new beginnings and represents a growing, expanding energy.",
+    "show": false
+  },
+  "2": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_3.jpg",
+    "description": "The Waxing Crescent is the phase where about 1-49% of the Moon is illuminated. This is when the Moon is 'growing' toward its Full Moon phase.",
+    "show": false
+  },
+  "3": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_4.jpg",
+    "description": "The increasing light during the Waxing Crescent is due to the Moon's orbit bringing it closer to the Earth’s shadow.",
+    "show": false
+  },
+  "4": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_5.jpg",
+    "description": "During the Waxing Crescent phase, sunlight begins to hit the Moon at an angle. This is when we see a thin crescent, known as the 'horns of the crescent.'",
+    "show": false
+  },
+  "5": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_6.jpg",
+    "description": "Waxing Crescent is the ideal time for setting intentions, as the Moon’s light increases and the energy is focused on growth.",
+    "show": false
+  },
+  "6": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_7.jpg",
+    "description": "The crescent shape of the Moon during this phase is also due to the Moon’s position in relation to Earth and Sun. The 'thin sliver' grows as the days progress.",
+    "show": false
+  },
+  "7": {
+    "phase_name": "Waxing Crescent",
+    "file_name": "moon_8.jpg",
+    "description": "The Waxing Crescent phase lasts about one week. During this time, the visible part of the Moon increases, which is also known as the Moon's 'growing light.'",
+    "show": false
+  },
+  "8": {
+    "phase_name": "First Quarter",
+    "file_name": "moon_9.jpg",
+    "description": "In the First Quarter phase, half of the Moon's surface is illuminated, making it appear as a 'half Moon.' This phase is a time of decision-making and taking action.",
+    "show": true
+  },
+  "9": {
+    "phase_name": "Waxing Gibbous",
+    "file_name": "moon_10.jpg",
+    "description": "The Waxing Gibbous phase is when the Moon is more than half-illuminated but not yet fully illuminated. This phase represents a time for refinement and preparation.",
+    "show": false
+  },
+  "10": {
+    "phase_name": "Waxing Gibbous",
+    "file_name": "moon_11.jpg",
+    "description": "During this phase, the Moon’s surface is brightening, and the energy is increasing, making it a good time to nurture your ideas and projects.",
+    "show": false
+  },
+  "11": {
+    "phase_name": "Waxing Gibbous",
+    "file_name": "moon_12.jpg",
+    "description": "The Waxing Gibbous phase lasts for about a week and represents the build-up of energy before the Full Moon. It’s a time to prepare for completion.",
+    "show": false
+  },
+  "12": {
+    "phase_name": "Waxing Gibbous",
+    "file_name": "moon_13.jpg",
+    "description": "The Waxing Gibbous is known for its increasing illumination. The Moon’s light continues to grow as it heads towards fullness.",
+    "show": false
+  },
+  "13": {
+    "phase_name": "Waxing Gibbous",
+    "file_name": "moon_14.jpg",
+    "description": "This phase is ideal for refining projects and planning the final steps toward achieving your goals. The energy is building towards the Full Moon.",
+    "show": false
+  },
+  "14": {
+    "phase_name": "Full Moon",
+    "file_name": "moon_15.jpg",
+    "description": "The Full Moon occurs when the Earth is between the Sun and the Moon, and the entire face of the Moon is illuminated. It symbolizes completion, abundance, and fulfillment.",
+    "show": true
+  },
+  "15": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_16.jpg",
+    "description": "The Full Moon occurs when the Earth is between the Sun and the Moon, and the entire face of the Moon is illuminated. It symbolizes completion, abundance, and fulfillment.",
+    "show": false
+  },
+  "16": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_17.jpg",
+    "description": "The Waning Crescent is the final phase before the New Moon. It symbolizes rest and reflection as the Moon’s light fades and prepares for a new cycle.",
+    "show": false
+  },
+  "17": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_18.jpg",
+    "description": "During the Waning Crescent, less and less of the Moon is visible, as it moves back towards the New Moon. This phase encourages letting go and rest.",
+    "show": false
+  },
+  "18": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_19.jpg",
+    "description": "The Waning Crescent is a time for introspection and winding down. It marks the final stages of the Moon’s cycle before it disappears completely.",
+    "show": false
+  },
+  "19": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_20.jpg",
+    "description": "This phase is sometimes called the 'Dark Moon' as it represents closure, endings, and preparation for the start of a new lunar cycle.",
+    "show": false
+  },
+  "20": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_21.jpg",
+    "description": "The Waning Crescent is the time when the Moon's visible light is at its weakest. It symbolizes release and letting go of old energy.",
+    "show": false
+  },
+  "21": {
+    "phase_name": "Waning Crescent",
+    "file_name": "moon_22.jpg",
+    "description": "As the Moon moves toward the New Moon, it begins its final phase of the cycle. This time is best for rest, relaxation, and reflection.",
+    "show": false
+  },
+  "22": {
+    "phase_name": "Third Quarter",
+    "file_name": "moon_23.jpg",
+    "description": "The Third Quarter occurs when the Moon has completed three-quarters of its cycle. It marks a time of re-evaluation, making adjustments, and refining plans.",
+    "show": true
+  },
+  "23": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_24.jpg",
+    "description": "In the Waning Gibbous phase, the Moon’s light is shrinking as it moves away from the Full Moon. It’s a time of gratitude and finishing projects.",
+    "show": false
+  },
+  "24": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_25.jpg",
+    "description": "The Waning Gibbous symbolizes a time for introspection and closure. It's a period for tying up loose ends before the next New Moon.",
+    "show": false
+  },
+  "25": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_26.jpg",
+    "description": "During this phase, the Moon’s light continues to wane. It's a time to reflect on the journey and release what no longer serves you.",
+    "show": false
+  },
+  "26": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_27.jpg",
+    "description": "The Waning Gibbous phase is the last time the Moon will be fully visible before the New Moon. It’s a time to clear away clutter and distractions.",
+    "show": false
+  },
+  "27": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_28.jpg",
+    "description": "This phase marks the waning of energy, a time for preparing for rest and the renewal that comes with the New Moon.",
+    "show": false
+  },
+  "28": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_29.jpg",
+    "description": "The Waning Gibbous is about reflection, surrendering, and preparing for the upcoming New Moon cycle. It’s a time of cleansing.",
+    "show": false
+  },
+  "29": {
+    "phase_name": "Waning Gibbous",
+    "file_name": "moon_30.jpg",
+    "description": "As the Moon completes its cycle, the light fades during the Waning Gibbous. This phase is about letting go, relaxation, and rest before the new cycle begins.",
+    "show": false
+  }
+}

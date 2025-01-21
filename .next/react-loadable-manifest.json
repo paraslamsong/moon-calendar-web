@@ -1,0 +1,20 @@
+{
+  "../node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": null,
+    "files": []
+  },
+  "../node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": null,
+    "files": []
+  },
+  "app/3d-moon/page.tsx -> ../3d-moon/moon-model": {
+    "id": 4235,
+    "files": [
+      "static/chunks/b536a0f1.2f5ba0297d16678b.js",
+      "static/chunks/bd904a5c.f3babe168bc45878.js",
+      "static/chunks/1329d575.7cb1478b2186121c.js",
+      "static/chunks/549.103ffa361e80b884.js",
+      "static/chunks/235.799dfe3ae3deefee.js"
+    ]
+  }
+}
