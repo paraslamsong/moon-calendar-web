@@ -10,10 +10,13 @@ import { Sun } from "./components/sun.model";
 import { Earth } from "./components/earth.model";
 
 const Page: React.FC = () => {
-  const moonTexture = useLoader(TextureLoader, "assets/3d-moon/texture-8k.jpg");
+  const moonTexture = useLoader(
+    TextureLoader,
+    "/assets/3d-moon/texture-8k.jpg"
+  );
   const moonRoughnessTexture = useLoader(
     TextureLoader,
-    "assets/3d-moon/bumpmap.webp"
+    "/assets/3d-moon/bumpmap.webp"
   );
   const starryTexture = useLoader(
     TextureLoader,

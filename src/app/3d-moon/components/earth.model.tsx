@@ -6,7 +6,7 @@ import { TextureLoader } from "three";
 export const Earth = () => {
   const sunTexture = useLoader(
     TextureLoader,
-    "assets/3d-moon/earth-texture.jpg"
+    "/assets/3d-moon/earth-texture.jpg"
   );
 
   const meshRef = useRef<THREE.Mesh>(null);

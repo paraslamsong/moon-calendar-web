@@ -43,7 +43,10 @@ export const StarburstRays = () => {
 
 // Sun component with lens flare
 export const Sun = () => {
-  const sunTexture = useLoader(TextureLoader, "assets/3d-moon/sun-texture.jpg");
+  const sunTexture = useLoader(
+    TextureLoader,
+    "/assets/3d-moon/sun-texture.jpg"
+  );
 
   const meshRef = useRef<THREE.Mesh>(null);
 
